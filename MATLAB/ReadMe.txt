@@ -1,6 +1,6 @@
 For ELM
 	Open ELM_All.m
-		- Go to FeatureExtraction and change the directory to extract features for your own data. 
+		- Go to FeatureExtraction and change the directory to extract features for your data. 
 	
 		(a) change the directory to where you saved the files 
 		(b) Change the NumberofHiddenNeurons, ActivationFunction, and regularization parameter 'C'.
@@ -13,7 +13,7 @@ For ELM
 	
 For HELM
 	Open HELM_Main.m
-		- Go to FeatureExtraction and change the directory to extract features for your own data. 
+		- Go to FeatureExtraction and change the directory to extract features for your data. 
 		
 		(a) Run HELM_Main.m
 
