@@ -27,7 +27,7 @@ For HELM
 		(c) Go to "helm_train" for multi-layer training.  
 	
 
-If you use the follwing code kindly cite and consult to "Experimental Study on Extreme Learning Machine Applications for Speech Enhancement" paper for more information.
+If you use the following codes for your research, kindly cite and consult to "Experimental Study on Extreme Learning Machine Applications for Speech Enhancement" paper for more information.
 
 #'''''''''''''''''''''''''''''''''''#
 Author:  Tassadaq Hussain
