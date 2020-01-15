@@ -1,3 +1,5 @@
+- Download the codes and save it to the local dir
+
 For ELM
 	Open ELM_All.m
 		- Go to FeatureExtraction and change the directory to extract features for your data. 
