@@ -11,7 +11,7 @@ The HELM framework comprises two stages, i.e., unsupervised feature extraction a
 For more details about the MATLAB and python setup, kindly consult to ReadMe files in the corresponding folders.
 
 ## Note
-We are working on python scripts to be made available and will upload them to the repository once the scripts are ready.  
+We are working on python scripts and will upload to the repository once the scripts are ready.  
 
 # Citing
 
